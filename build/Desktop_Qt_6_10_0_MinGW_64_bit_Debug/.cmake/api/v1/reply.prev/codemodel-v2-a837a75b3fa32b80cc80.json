@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-31c9cf7ee9b6b85f3bbd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "VADC_control",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "VADC_control::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VADC_control-Debug-e4a1a806c11fb346cf51.json",
+					"name" : "VADC_control",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VADC_control_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VADC_control_autogen-Debug-4b2cd0498574263af55f.json",
+					"name" : "VADC_control_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VADC_control_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VADC_control_autogen_timestamp_deps-Debug-04aaa3aa1f4f64fc7f52.json",
+					"name" : "VADC_control_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Work/DFZ/VADC_control/VADC_control/build/Desktop_Qt_6_10_0_MinGW_64_bit_Debug",
+		"source" : "D:/Work/DFZ/VADC_control/VADC_control"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

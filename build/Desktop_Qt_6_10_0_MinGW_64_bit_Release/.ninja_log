@@ -1,0 +1,16 @@
+# ninja log v6
+4	156	8051384171007037	VADC_control_autogen/timestamp	7d092c03481c6fe8
+4	156	8051384171007037	D:/Work/DFZ/VADC_control/VADC_control/build/Desktop_Qt_6_10_0_MinGW_64_bit_Release/VADC_control_autogen/timestamp	7d092c03481c6fe8
+4	156	8051384171007037	VADC_control_autogen/mocs_compilation.cpp	7d092c03481c6fe8
+157	204	8051384171387041	CMakeFiles/VADC_control.dir/VADC_control_autogen/mocs_compilation.cpp.obj	4c30d0683193206d
+4	156	8051384171007037	D:/Work/DFZ/VADC_control/VADC_control/build/Desktop_Qt_6_10_0_MinGW_64_bit_Release/VADC_control_autogen/mocs_compilation.cpp	7d092c03481c6fe8
+1021	1115	8051384180024479	VADC_control.exe	1274ad790c016028
+161	1019	8051384171425495	CMakeFiles/VADC_control.dir/main.cpp.obj	2761d2673917dc13
+11	150	8052105624247228	VADC_control_autogen/timestamp	7d092c03481c6fe8
+11	150	8052105624247228	VADC_control_autogen/mocs_compilation.cpp	7d092c03481c6fe8
+11	150	8052105624247228	D:/Work/DFZ/VADC_control/VADC_control/build/Desktop_Qt_6_10_0_MinGW_64_bit_Release/VADC_control_autogen/timestamp	7d092c03481c6fe8
+11	150	8052105624247228	D:/Work/DFZ/VADC_control/VADC_control/build/Desktop_Qt_6_10_0_MinGW_64_bit_Release/VADC_control_autogen/mocs_compilation.cpp	7d092c03481c6fe8
+151	200	8052105625681240	CMakeFiles/VADC_control.dir/VADC_control_autogen/mocs_compilation.cpp.obj	45cddf24896ff7c6
+158	1022	8052105625760250	CMakeFiles/VADC_control.dir/crc16.cpp.obj	3dfcd0c10dff4499
+155	1414	8052105625730469	CMakeFiles/VADC_control.dir/main.cpp.obj	3f755bf6d1eb4340
+1415	1519	8052105638309472	VADC_control.exe	ca5276fbcf1d30fb
